@@ -1,0 +1,66 @@
+.topbar{
+ padding: 10px;  
+ background-color: #316DC3;  
+}
+.btn1{
+    border: 1px solid #008000;
+    color: #008000;
+}
+.image{
+    background-image: url('images/coverimages/coverimage.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;    
+    height: 450px;
+}
+.headerimage{
+    width: 200px;
+    height: 50px;
+}
+.btnmenu{
+    height:35px;
+    border: none;
+}
+.btnmenu1{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.logo3{
+    width: 70px;
+    height: 50px;
+}
+.counterimage{
+    width:50px;
+    height:50px;
+}
+.countercolor{
+    background-color: rgb(50, 50, 235);
+}
+.div1{
+    height: 150px;
+}
+.dash{
+    width: 80px;
+    height: 5px;
+    color: green;
+    /* display: block; */
+
+}
+.liverdiv{
+    width:300px;
+}
+.text{
+    height: 200px;
+}
+ul{
+    list-style: none;
+}
+.p1
+{
+    color: #00f339;
+}
+.p2{
+    color: #0056b3;
+    
+}
